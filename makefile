@@ -17,3 +17,9 @@ prod:
 
 build:
 	npm run build
+
+test:
+	npm run test
+
+test_watch:
+	npm run test:watch
